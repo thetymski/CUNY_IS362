@@ -1,0 +1,1 @@
+select SUM(distance) from flights where year = '2013' and month = '1'
