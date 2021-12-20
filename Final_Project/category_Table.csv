@@ -1,0 +1,125 @@
+category ID,category name
+1,ACTOR
+2,ACTRESS
+3,ART DIRECTION
+4,CINEMATOGRAPHY
+5,DIRECTING (Comedy Picture)
+6,DIRECTING (Dramatic Picture)
+7,ENGINEERING EFFECTS
+8,OUTSTANDING PICTURE
+9,UNIQUE AND ARTISTIC PICTURE
+10,WRITING (Adaptation)
+11,WRITING (Original Story)
+12,WRITING (Title Writing)
+13,SPECIAL AWARD
+14,DIRECTING
+15,WRITING
+16,OUTSTANDING PRODUCTION
+17,SOUND RECORDING
+18,SCIENTIFIC OR TECHNICAL AWARD (Class I)
+19,SCIENTIFIC OR TECHNICAL AWARD (Class II)
+20,SCIENTIFIC OR TECHNICAL AWARD (Class III)
+21,SHORT SUBJECT (Cartoon)
+22,SHORT SUBJECT (Comedy)
+23,SHORT SUBJECT (Novelty)
+24,ASSISTANT DIRECTOR
+25,FILM EDITING
+26,MUSIC (Scoring)
+27,MUSIC (Song)
+28,DANCE DIRECTION
+29,WRITING (Screenplay)
+30,ACTOR IN A SUPPORTING ROLE
+31,ACTRESS IN A SUPPORTING ROLE
+32,SHORT SUBJECT (Color)
+33,SHORT SUBJECT (One-reel)
+34,SHORT SUBJECT (Two-reel)
+35,IRVING G. THALBERG MEMORIAL AWARD
+36,MUSIC (Original Score)
+37,CINEMATOGRAPHY (Black-and-White)
+38,CINEMATOGRAPHY (Color)
+39,SPECIAL EFFECTS
+40,ART DIRECTION (Black-and-White)
+41,ART DIRECTION (Color)
+42,WRITING (Original Screenplay)
+43,DOCUMENTARY (Short Subject)
+44,MUSIC (Music Score of a Dramatic Picture)
+45,MUSIC (Scoring of a Musical Picture)
+46,OUTSTANDING MOTION PICTURE
+47,DOCUMENTARY
+48,MUSIC (Music Score of a Dramatic or Comedy Picture)
+49,WRITING (Original Motion Picture Story)
+50,DOCUMENTARY (Feature)
+51,BEST MOTION PICTURE
+52,WRITING (Motion Picture Story)
+53,COSTUME DESIGN (Black-and-White)
+54,COSTUME DESIGN (Color)
+55,SPECIAL FOREIGN LANGUAGE FILM AWARD
+56,WRITING (Story and Screenplay)
+57,HONORARY FOREIGN LANGUAGE FILM AWARD
+58,HONORARY AWARD
+59,FOREIGN LANGUAGE FILM
+60,WRITING (Screenplay--Adapted)
+61,WRITING (Screenplay--Original)
+62,JEAN HERSHOLT HUMANITARIAN AWARD
+63,COSTUME DESIGN
+64,SHORT SUBJECT (Live Action)
+65,WRITING (Screenplay--based on material from another medium)
+66,WRITING (Story and Screenplay--written directly for the screen)
+67,SOUND
+68,MUSIC (Music Score--substantially original)
+69,MUSIC (Scoring of Music--adaptation or treatment)
+70,BEST PICTURE
+71,SOUND EFFECTS
+72,SPECIAL VISUAL EFFECTS
+73,MUSIC (Original Music Score)
+74,MUSIC (Original Score--for a motion picture [not a musical])
+75,MUSIC (Score of a Musical Picture--original or adaptation)
+76,MUSIC (Song--Original for the Picture)
+77,WRITING (Story and Screenplay--based on material not previously published or produced)
+78,MUSIC (Original Song Score)
+79,WRITING (Story and Screenplay--based on factual material or material not previously published or produced)
+80,MUSIC (Original Dramatic Score)
+81,MUSIC (Scoring: Adaptation and Original Song Score)
+82,SHORT SUBJECT (Animated)
+83,SPECIAL ACHIEVEMENT AWARD (Visual Effects)
+84,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)
+85,SHORT FILM (Animated)
+86,SHORT FILM (Live Action)
+87,WRITING (Screenplay Adapted from Other Material)
+88,MUSIC (Original Song)
+89,SPECIAL ACHIEVEMENT AWARD (Sound Effects)
+90,ACTOR IN A LEADING ROLE
+91,ACTRESS IN A LEADING ROLE
+92,MUSIC (Original Song Score and Its Adaptation or Adaptation Score)
+93,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)
+94,VISUAL EFFECTS
+95,SPECIAL ACHIEVEMENT AWARD
+96,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing)
+97,MEDAL OF COMMENDATION
+98,MUSIC (Adaptation Score)
+99,WRITING (Screenplay Based on Material from Another Medium)
+100,WRITING (Screenplay Written Directly for the Screen)
+101,SCIENTIFIC OR TECHNICAL AWARD (Academy Award of Merit)
+102,SCIENTIFIC OR TECHNICAL AWARD (Scientific and Engineering Award)
+103,SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)
+104,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)
+105,SPECIAL ACHIEVEMENT AWARD (Sound Editing)
+106,SHORT FILM (Dramatic Live Action)
+107,MAKEUP
+108,GORDON E. SAWYER AWARD
+109,SOUND EFFECTS EDITING
+110,MUSIC (Original Song Score or Adaptation Score)
+111,AWARD OF COMMENDATION
+112,WRITING (Screenplay Based on Material Previously Produced or Published)
+113,SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)
+114,SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)
+115,SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)
+116,MUSIC (Original Musical or Comedy Score)
+117,JOHN A. BONNER MEDAL OF COMMENDATION
+118,SOUND EDITING
+119,ANIMATED FEATURE FILM
+120,WRITING (Adapted Screenplay)
+121,SOUND MIXING
+122,MAKEUP AND HAIRSTYLING
+123,PRODUCTION DESIGN
+124,SCIENTIFIC AND TECHNICAL AWARD (Special Award)
